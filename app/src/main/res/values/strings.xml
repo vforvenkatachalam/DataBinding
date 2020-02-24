@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+    <string name="what_is_your_nickname">what is your nickname ?</string>
+</resources>
